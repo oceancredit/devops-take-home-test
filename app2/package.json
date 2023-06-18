@@ -1,0 +1,16 @@
+{
+    "name": "app2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./server.js",
+        "start_debug": "npm run start --inspect=0.0.0.0:30001"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.2",
+        "mongoose": "^5.0.7"
+    }
+}

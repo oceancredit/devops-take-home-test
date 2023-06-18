@@ -1,0 +1,7 @@
+Welcome to the interview.
+
+This repository contains 2 sample applications. Your task will be to create Dockerfile and docker-compose files for them and start up the applications without any issues/errors. It is safe to ignore warnings.
+
+Please do your best to provide optimized Docker and docker-compose files, maximizing efficiency.
+
+Once finished, please create a zip file with all the changes and send it to us. Good luck!
